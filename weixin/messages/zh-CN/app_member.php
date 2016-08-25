@@ -1,0 +1,63 @@
+<?php
+return [
+	'address_list'=>'我的地址',
+	'bank_list'=>'银行卡列表',
+	'add_address'=>'添加新地址',
+	'default'=>'默认',
+	'set_default'=>'设置默认',
+	'add_bank'=>'添加新银行卡',
+	'my_info'=>'我的资料',
+	'china'=>'中国',
+	'all'=>'全部',
+	'recharge'=>'充值',
+	'money_cash'=>'提现',
+	'bank_username'=>'请输入开户人姓名',
+	'bank_branch'=>'请输入开户支行名称',
+	'bank_no'=>'请输入银行卡号',
+	'my_all_money'=>'零钱',
+	'search_cz_money'=>'查看充值明细',
+	'search_money'=>'查看提现明细',
+	'wait_money'=>'待结算金额',
+	'balance_detail'=>'余额收支明细',
+	'member_experience'=>'会员成长',
+	'my_qr_code'=>'我的二维码',
+	'my_store'=>'我的店铺',
+	'has_store'=>'已开店',
+	'has_not_store'=>'未开店',
+	'my_address'=>'我的地址',
+	'my_card'=>'我的银行卡',
+	'my_center'=>'个人中心首页',
+	'my_order'=>'我的订单',
+
+	'my_back_order'=>'我的退款退货订单',
+	'my_review'=>'我的评价',
+	'my_team'=>'我的团队',
+	'my_collection'=>'我的收藏',
+	'setting'=>'设置',
+	'level'=>'用户等级',
+
+	'unBind'=>'取消绑定',
+	'sign'=>'签到',
+	'has_sign'=>'今日已签到',
+	'my_balance'=>'我的余额',
+	'create_money_cash'=>'申请提现',
+	
+	//提现申请
+	'input_money_cash'=>'请输入提现金额',
+	'get_validate_code'=>'获取验证码',
+	'input_validate_code'=>'请输入验证码',
+	'validate_code'=>'短信验证码',
+	'poundage'=>'手续费',
+	'restart_apply'=>'重新申请',
+	//黄金积分
+	'my_point'=>'我的积分',
+	'create_point'=>'积分提现',
+	'input_point'=>'请输入提现积分',
+	'input_point_bank'=>'请输入积分提取地址',
+	//米券
+	'my_cash_money'=>'我的米券',
+
+	//充值
+	'input_money'=>'请输入金额',
+];
+?>
